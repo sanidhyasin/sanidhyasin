@@ -43,6 +43,3 @@ I'm a Fullstack Developer with experience in building dynamic web applications. 
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyasin&layout=compact&theme=radical)
-
-## Contributions
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sanidhyasin&theme=radical)](https://git.io/streak-stats)
