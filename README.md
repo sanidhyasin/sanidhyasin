@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sanidhyasingh0101-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanidhyasingh0101/)
 
-Software Engineer II @INE working across **TypeScript, Node.js, and Python** on full-stack SaaS, cloud infrastructure (AWS / GCP), real-time systems, and AI agent tooling.
+Software Engineer II [@INE](https://ine.com) working across **TypeScript, Node.js, and Python** on full-stack SaaS, cloud infrastructure (AWS / GCP), real-time systems, and AI agent tooling.
 
 ## Contributing to
 
