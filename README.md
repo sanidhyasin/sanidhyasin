@@ -2,9 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sanidhyasingh0101-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanidhyasingh0101/)
 [![X](https://img.shields.io/badge/X-sanidhyatwt-000000?style=flat&logo=x&logoColor=white)](https://x.com/sanidhyatwt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanidhya.cc-2b3137?style=flat&logo=vercel&logoColor=white)](https://sanidhya.cc)
 
-Software Engineer II [@INE](https://github.com/Internetworkexpert) · co-founder of [Altide](https://sanidhya.cc) — working across **TypeScript, Node.js, and Python** on full-stack SaaS, cloud infrastructure (AWS / GCP), and AI agent tooling.
+Software Engineer II at INE working across **TypeScript, Node.js, and Python** on full-stack SaaS, cloud infrastructure (AWS / GCP), real-time systems, and AI agent tooling.
 
 ## Contributing to
 
