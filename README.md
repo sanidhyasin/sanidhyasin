@@ -17,7 +17,12 @@ Software Engineer II [@INE](https://ine.com) working across **TypeScript, Node.j
 - **[cline/cline](https://github.com/cline/cline)** ![stars](https://img.shields.io/github/stars/cline/cline?style=flat&label=stars&color=dfb317) — fix(terminal): honor the configured terminal profile in background exec mode ([#11283](https://github.com/cline/cline/pull/11283))
 - **[langgenius/dify](https://github.com/langgenius/dify)** ![stars](https://img.shields.io/github/stars/langgenius/dify?style=flat&label=stars&color=dfb317) — fix(docker): proxy `/swaggerui` so Swagger UI assets load behind nginx ([#37097](https://github.com/langgenius/dify/pull/37097))
 - **[open-webui/open-webui](https://github.com/open-webui/open-webui)** ![stars](https://img.shields.io/github/stars/open-webui/open-webui?style=flat&label=stars&color=dfb317) — fix: coerce string-valued tool arguments to their declared scalar types ([#25731](https://github.com/open-webui/open-webui/pull/25731))
+- **[PostHog/posthog](https://github.com/PostHog/posthog)** ![stars](https://img.shields.io/github/stars/PostHog/posthog?style=flat&label=stars&color=dfb317) — feat(cdp): allowlist the SNS `TopicArn` on the SES webhook ([#61833](https://github.com/PostHog/posthog/pull/61833))
+- **[medusajs/medusa](https://github.com/medusajs/medusa)** ![stars](https://img.shields.io/github/stars/medusajs/medusa?style=flat&label=stars&color=dfb317) — fix: allow updating buyget promotions via `PATCH /admin/promotions/:id` ([#15619](https://github.com/medusajs/medusa/pull/15619))
+- **[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)** ![stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat&label=stars&color=dfb317) — fix: detect uploaded file type for uppercase file extensions ([#6481](https://github.com/FlowiseAI/Flowise/pull/6481))
+- **[chroma-core/chroma](https://github.com/chroma-core/chroma)** ![stars](https://img.shields.io/github/stars/chroma-core/chroma?style=flat&label=stars&color=dfb317) — fix(api): use the `/heartbeat` path in the async client ([#7215](https://github.com/chroma-core/chroma/pull/7215))
+- **[aaif-goose/goose](https://github.com/aaif-goose/goose)** ![stars](https://img.shields.io/github/stars/aaif-goose/goose?style=flat&label=stars&color=dfb317) — fix(desktop): restore the Cmd/Ctrl+T new-chat shortcut ([#9614](https://github.com/aaif-goose/goose/pull/9614))
 
 <sub>Each item links to the pull request — open PRs reflect work in review.</sub>
 
-<sub>Last updated: 5 June 2026</sub>
+<sub>Last updated: 6 June 2026</sub>
