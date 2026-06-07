@@ -6,6 +6,7 @@ Software Engineer II [@INE](https://ine.com) working across **TypeScript, Node.j
 
 ## Contributing to
 
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** ![stars](https://img.shields.io/badge/stars-185k-dfb317?style=flat) — fix(agent): honor `model.default_headers` for custom OpenAI-compatible providers (cherry-picked to `main` as [a216ff8](https://github.com/NousResearch/hermes-agent/commit/a216ff839)); root-cause diagnosis for the CLI approval-panel repaint bug credited in [#41155](https://github.com/NousResearch/hermes-agent/pull/41155)
 - **[langgenius/dify](https://github.com/langgenius/dify)** ![stars](https://img.shields.io/badge/stars-144k-dfb317?style=flat) — fix(docker): proxy `/swaggerui` so Swagger UI assets load behind nginx ([#37097](https://github.com/langgenius/dify/pull/37097))
 - **[open-webui/open-webui](https://github.com/open-webui/open-webui)** ![stars](https://img.shields.io/badge/stars-140k-dfb317?style=flat) — fix: coerce string-valued tool arguments to their declared scalar types ([#25731](https://github.com/open-webui/open-webui/pull/25731))
 - **[electron/electron](https://github.com/electron/electron)** ![stars](https://img.shields.io/badge/stars-122k-dfb317?style=flat) — fix: set `Dirent.parentPath` in asar `fs.readdir` with `withFileTypes` ([#51845](https://github.com/electron/electron/pull/51845))
@@ -21,8 +22,9 @@ Software Engineer II [@INE](https://ine.com) working across **TypeScript, Node.j
 - **[medusajs/medusa](https://github.com/medusajs/medusa)** ![stars](https://img.shields.io/badge/stars-34k-dfb317?style=flat) — fix: allow updating buyget promotions via `PATCH /admin/promotions/:id` ([#15619](https://github.com/medusajs/medusa/pull/15619))
 - **[better-auth/better-auth](https://github.com/better-auth/better-auth)** ![stars](https://img.shields.io/badge/stars-29k-dfb317?style=flat) — fix(open-api): generate requestBody for intersection body schemas ([#9883](https://github.com/better-auth/better-auth/pull/9883))
 - **[chroma-core/chroma](https://github.com/chroma-core/chroma)** ![stars](https://img.shields.io/badge/stars-28k-dfb317?style=flat) — fix(api): use the `/heartbeat` path in the async client ([#7215](https://github.com/chroma-core/chroma/pull/7215))
+- **[plastic-labs/honcho](https://github.com/plastic-labs/honcho)** ![stars](https://img.shields.io/badge/stars-4.9k-dfb317?style=flat) — fix(llm): guard the OpenAI backend against malformed provider responses ([#776](https://github.com/plastic-labs/honcho/pull/776))
 - **[letta-ai/letta-code](https://github.com/letta-ai/letta-code)** ![stars](https://img.shields.io/badge/stars-2.7k-dfb317?style=flat) — feat(cli): add vim-style j/k navigation to list selectors ([#2673](https://github.com/letta-ai/letta-code/pull/2673))
 
 <sub>Each item links to the pull request — open PRs reflect work in review.</sub>
 
-<sub>Last updated: 6 June 2026</sub>
+<sub>Last updated: 7 June 2026</sub>
