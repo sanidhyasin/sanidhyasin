@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sanidhyasingh0101-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanidhyasingh0101/)
 ![Profile views](https://komarev.com/ghpvc/?username=sanidhyasin&style=flat&color=6e7781&label=profile+views&base=5000)
+[![GitHub](https://img.shields.io/badge/GitHub-sanidhyasin-24292f?style=flat&logo=github&logoColor=white)](https://github.com/sanidhyasin)
 
 Software Engineer II [@INE](https://ine.com) working across **TypeScript, Node.js, and Python** on full-stack SaaS, cloud infrastructure (AWS / GCP), real-time systems, and AI agent tooling.
 
