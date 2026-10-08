@@ -32,4 +32,4 @@ Software Engineer II [@INE](https://ine.com) working across **TypeScript, Node.j
 
 <sub>Each item links to the pull request — open PRs reflect work in review.</sub>
 
-<sub>Last updated: 25 July 2026</sub>
+<sub>Last updated: 8 October 2026</sub>
