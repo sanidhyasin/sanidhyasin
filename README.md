@@ -33,6 +33,6 @@ Currently exploring agent tooling, OSS contributions, and developer infra.
 - **[plastic-labs/honcho](https://github.com/plastic-labs/honcho)** ![stars](https://img.shields.io/badge/stars-5k-dfb317?style=flat) — fix(llm): guard the OpenAI backend against malformed provider responses ([#776](https://github.com/plastic-labs/honcho/pull/776))
 - **[letta-ai/letta-code](https://github.com/letta-ai/letta-code)** ![stars](https://img.shields.io/badge/stars-2.7k-dfb317?style=flat) — feat(cli): add vim-style j/k navigation to list selectors ([#2673](https://github.com/letta-ai/letta-code/pull/2673))
 
-<sub>Each item links to the pull request — open PRs reflect work in review.</sub>
+<sub>Each item links to the pull request — open PRs are still in review.</sub>
 
 <sub>Last updated: 8 October 2026</sub>
