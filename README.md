@@ -6,6 +6,8 @@
 
 Software Engineer II [@INE](https://ine.com) working across **TypeScript, Node.js, and Python** on full-stack SaaS, cloud infrastructure (AWS / GCP), real-time systems, and AI agent tooling.
 
+Currently exploring agent tooling, OSS contributions, and developer infra.
+
 ## Contributing to
 
 - **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** ![stars](https://img.shields.io/badge/stars-190k-dfb317?style=flat) — fix(agent): honor `model.default_headers` for custom OpenAI-compatible providers (cherry-picked to `main` as [a216ff8](https://github.com/NousResearch/hermes-agent/commit/a216ff839)); fix(cron): don't log "agent returned [SILENT]" when the agent was never invoked ([#42107](https://github.com/NousResearch/hermes-agent/pull/42107)); fix(desktop): collapse spreadsheet column tabs on paste ([#42573](https://github.com/NousResearch/hermes-agent/pull/42573)); root-cause diagnosis for the CLI approval-panel repaint bug credited in [#41155](https://github.com/NousResearch/hermes-agent/pull/41155)
